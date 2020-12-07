@@ -1,0 +1,18 @@
+                             Macro commands
+                             ~~~~~~~~~~~~~~
+   Area           Usage
+   컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+   "Shell"        File panels
+   "Viewer"       Internal viewer
+   "Editor"       Internal editor
+   "Dialog"       Dialogs
+   "Search"       Quick file search
+   "Disks"        Select drive menu
+   "MainMenu"     Main menu
+   "Menu"         Other menus
+   "Help"         Help window
+   "Info"         Info panel
+   "QView"        Quick view panel
+   "Tree"         Tree panel
+   "Other"        Screen grabber, vertical menus
+   컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
