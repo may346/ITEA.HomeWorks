@@ -1,0 +1,16 @@
+   Area           Usage
+   ----------------------------------------------
+   "Shell"        File panels
+   "Viewer"       Internal viewer
+   "Editor"       Internal editor
+   "Dialog"       Dialogs
+   "Search"       Quick file search
+   "Disks"        Select drive menu
+   "MainMenu"     Main menu
+   "Menu"         Other menus
+   "Help"         Help window
+   "Info"         Info panel
+   "QView"        Quick view panel
+   "Tree"         Tree panel
+   "Other"        Screen grabber, vertical menus
+   ----------------------------------------------
